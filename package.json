@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/pome-ta/jsConsoleSandbox/issues"
   },
-  "homepage": "https://github.com/pome-ta/jsConsoleSandbox#readme"
+  "homepage": "https://github.com/pome-ta/jsConsoleSandbox#readme",
+  "dependencies": {
+    "eruda": "^2.10.0",
+    "monaco-editor": "^0.34.1"
+  }
 }
