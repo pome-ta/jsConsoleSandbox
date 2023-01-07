@@ -1,3 +1,11 @@
+# 📝 2023/01/07
+
+本来の目的のchrome extensions でやっていく
+
+[Manifest file format - Chrome Developers](https://developer.chrome.com/docs/extensions/mv3/manifest/)
+
+いつもの設定を忘れたのでカンニングしていく
+
 # 📝 2022/12/26
 
 monaco とeruda でやるかな？

@@ -2,13 +2,6 @@
   "name": "jsconsolesandbox",
   "version": "0.0.0",
   "description": "",
-  "main": "index.js",
-  "directories": {
-    "doc": "docs"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pome-ta/jsConsoleSandbox.git"
@@ -21,7 +14,6 @@
   },
   "homepage": "https://github.com/pome-ta/jsConsoleSandbox#readme",
   "dependencies": {
-    "eruda": "^2.10.0",
-    "monaco-editor": "^0.34.1"
+    "monaco-editor": "latest"
   }
 }

@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "jsConsoleSandbox",
+  "version": "0.0.0",
+
+  "action": {},
+  "description": "js のsandbox",
+  "background": {
+    "service_worker": "./background.js"
+  }
+}
