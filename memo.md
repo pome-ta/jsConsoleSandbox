@@ -1,3 +1,7 @@
+# 📝 2023/01/10
+
+VSCode とcodeMirror 両方でやっちゃおうかな
+
 # 📝 2023/01/07
 
 本来の目的のchrome extensions でやっていく
