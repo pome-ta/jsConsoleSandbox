@@ -2,6 +2,8 @@
 
 VSCode とcodeMirror 両方でやっちゃおうかな
 
+eruda も入れたいけど、node の知識が弱すぎるから、別で検証
+
 # 📝 2023/01/07
 
 本来の目的のchrome extensions でやっていく
